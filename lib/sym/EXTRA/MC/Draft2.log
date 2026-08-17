@@ -1,0 +1,6 @@
+LTspice 26.0.2 for Windows
+Circuit: C:\Users\LOONG\Documents\LTspice\lib\sym\EXTRA\MC\Draft2.net
+Start Time: Mon Aug 17 05:00:05 2026
+C:\Users\LOONG\Documents\LTspice\lib\sym\EXTRA\MC\Draft2.net(2): This sub-circuit name is not defined.
+X§U1 NC_01 NC_02 NC_03 NC_04 NC_05 NC_06 NC_07 NC_08 MC34063 ;§pnba swc)swe)ct)90)2)vdd)isns)drc
+                                                     ^^^^^^^

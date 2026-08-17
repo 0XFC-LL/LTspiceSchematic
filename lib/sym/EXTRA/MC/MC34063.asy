@@ -1,0 +1,32 @@
+Version 4
+SymbolType BLOCK
+RECTANGLE Normal -64 -72 80 72
+WINDOW 0 8 -72 Bottom 2
+SYMATTR Prefix X
+SYMATTR Value MC34063
+SYMATTR ModelFile mc34063.lib
+WINDOW 3 8 72 Top 2
+PIN -64 -48 LEFT 8
+PINATTR PinName swc
+PINATTR SpiceOrder 1
+PIN -64 -16 LEFT 8
+PINATTR PinName swe
+PINATTR SpiceOrder 2
+PIN -64 16 LEFT 8
+PINATTR PinName ct
+PINATTR SpiceOrder 3
+PIN -64 48 LEFT 8
+PINATTR PinName gnd
+PINATTR SpiceOrder 4
+PIN 80 -48 RIGHT 8
+PINATTR PinName cinv
+PINATTR SpiceOrder 5
+PIN 80 -16 RIGHT 8
+PINATTR PinName vdd
+PINATTR SpiceOrder 6
+PIN 80 16 RIGHT 8
+PINATTR PinName isns
+PINATTR SpiceOrder 7
+PIN 80 48 RIGHT 8
+PINATTR PinName drc
+PINATTR SpiceOrder 8
